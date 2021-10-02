@@ -1,4 +1,4 @@
-<?php $link = mysql_connect('localhost', 'root'); ?>
+<?php $link = mysql_connect('localhost', 'root','web'); ?>
 <html>
 <head>
 	<title>Hello world!</title>
